@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|c:\\users\\ca.r214.16\\desktop\\raufexam\\backendexam\\backendexam\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\viewmodels\\signinvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\viewmodels\\signinvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\areas\\admin\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\areas\\admin\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\areas\\admin\\views\\teams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\areas\\admin\\views\\teams\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\areas\\admin\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\areas\\admin\\views\\teams\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\areas\\admin\\views\\teams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\areas\\admin\\views\\teams\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\areas\\admin\\views\\teams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\areas\\admin\\views\\teams\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\backendexam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\backendexam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\backendexam\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:backendexam\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Migrations\\20240524050602_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8CDBE42-3139-49C7-B9A0-E9B9514D07F4}|BackEndExam\\BackEndExam.csproj|solutionrelative:BackEndExam\\Migrations\\20240524050602_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BackEndExam\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BackEndExam\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAewB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:48:24.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Views\\Teams\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackEndExam\\Areas\\admin\\Views\\Teams\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Views\\Teams\\Index.cshtml",
+              "RelativeToolTip": "BackEndExam\\Areas\\admin\\Views\\Teams\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:11:42.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Views\\Teams\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BackEndExam\\Areas\\admin\\Views\\Teams\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Views\\Teams\\Edit.cshtml",
+              "RelativeToolTip": "BackEndExam\\Areas\\admin\\Views\\Teams\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:45:14.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "BackEndExam\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Models\\AppUser.cs",
+              "RelativeToolTip": "BackEndExam\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:29:46.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Views\\Auth\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "BackEndExam\\Views\\Auth\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Views\\Auth\\SignIn.cshtml",
+              "RelativeToolTip": "BackEndExam\\Views\\Auth\\SignIn.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:39:42.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BackEndExam\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BackEndExam\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:07:57.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\appsettings.json",
+              "RelativeDocumentMoniker": "BackEndExam\\appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\appsettings.json",
+              "RelativeToolTip": "BackEndExam\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T04:08:43.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Program.cs",
+              "RelativeDocumentMoniker": "BackEndExam\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Program.cs",
+              "RelativeToolTip": "BackEndExam\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:07:25.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignInVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\ViewModels\\SignInVM.cs",
+              "RelativeDocumentMoniker": "BackEndExam\\ViewModels\\SignInVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\ViewModels\\SignInVM.cs",
+              "RelativeToolTip": "BackEndExam\\ViewModels\\SignInVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:49:08.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "BackEndExam\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "BackEndExam\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:40:36.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "BackEndExam\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "BackEndExam\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:49:22.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "BackEndExam\\Areas\\admin\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "BackEndExam\\Areas\\admin\\Controllers\\TeamsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:44:11.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Views\\Teams\\Create.cshtml",
+              "RelativeDocumentMoniker": "BackEndExam\\Areas\\admin\\Views\\Teams\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Views\\Teams\\Create.cshtml",
+              "RelativeToolTip": "BackEndExam\\Areas\\admin\\Views\\Teams\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:45:07.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BackEndExam\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BackEndExam\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:38:06.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackEndExam\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BackEndExam\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:37:46.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Views\\Teams\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BackEndExam\\Areas\\admin\\Views\\Teams\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Views\\Teams\\Delete.cshtml",
+              "RelativeToolTip": "BackEndExam\\Areas\\admin\\Views\\Teams\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T07:29:02.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BackEndExam\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BackEndExam\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:38:25.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BackEndExam\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "BackEndExam\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:30:16.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BackEndExam\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BackEndExam\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:38:37.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BackEndExam\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BackEndExam\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:07:40.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "BackEndExam\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Models\\Team.cs",
+              "RelativeToolTip": "BackEndExam\\Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:27:06.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BackEndExam",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\BackEndExam.csproj",
+              "RelativeDocumentMoniker": "BackEndExam\\BackEndExam.csproj",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\BackEndExam.csproj",
+              "RelativeToolTip": "BackEndExam\\BackEndExam.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T05:35:58.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BackEndExam\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BackEndExam\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACMBAAAAAAAAAAAAADsBAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:19:48.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240524050602_createdb.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Migrations\\20240524050602_createdb.cs",
+              "RelativeDocumentMoniker": "BackEndExam\\Migrations\\20240524050602_createdb.cs",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Migrations\\20240524050602_createdb.cs",
+              "RelativeToolTip": "BackEndExam\\Migrations\\20240524050602_createdb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:06:02.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BackEndExam\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BackEndExam\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAAAJ8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:17:47.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BackEndExam\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BackEndExam\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-24T04:32:29.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BackEndExam\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.16\\Desktop\\RaufExam\\BackEndExam\\BackEndExam\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BackEndExam\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:07:37.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
